@@ -2,7 +2,7 @@
  * imu_roll_pitch.c
  *
  * Created: 2026-03-10 오후 3:33:48
- * Author : 오소현
+ *
  */ 
 /*
  * 1120_imu_test_final_GY521.c
